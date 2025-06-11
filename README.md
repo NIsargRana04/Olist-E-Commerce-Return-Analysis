@@ -3,14 +3,14 @@ Data analysis project using python, Power BI, and DAX to study product return pa
 
 # 📦 E-Commerce Return Analysis
 
-This project explores product return patterns in a Brazilian e-commerce dataset using SQL and Power BI. The goal was to identify key insights behind return behavior, such as product categories with higher return rates, and how price affects return probability.
+This project explores product return patterns in a Brazilian e-commerce dataset using Python and Power BI. The goal was to identify key insights behind return behavior, such as product categories with higher return rates, and how price affects return probability.
 
 ---
 
 ## 🔍 Project Objectives
 
 - Analyze **return rate** across product categories and price ranges  
-- Use **SQL** for data filtering, transformation, and aggregation  
+- Use **Python** for data filtering, transformation, and aggregation  
 - Design an **interactive dashboard** in Power BI for easy exploration  
 - Apply **DAX** to calculate return metrics and summary KPIs  
 - Address slicer functionality issues using **button-based navigation** as an alternative approach
@@ -21,7 +21,7 @@ This project explores product return patterns in a Brazilian e-commerce dataset 
 
 | Tool        | Purpose                         |
 |-------------|----------------------------------|
-| SQL (MySQL) | Data cleaning and transformations |
+| Python      | Data cleaning and transformations |
 | Power BI    | Data visualization and dashboard creation |
 | Excel       | Basic data prep and support       |
 | Word        | Project documentation             |
